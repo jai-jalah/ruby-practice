@@ -18,3 +18,6 @@ players.each do |player|
 end
 
 puts players_by_sport
+
+
+#$arr.each { |num| $score_arr.push($news.find { |_key, value| _key.include?(num) }) }
